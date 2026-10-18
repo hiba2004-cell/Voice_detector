@@ -1,0 +1,7 @@
+streamlit>=1.39
+numpy
+pandas
+torch
+torchaudio
+speechbrain
+soundfile
